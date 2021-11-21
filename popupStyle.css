@@ -1,0 +1,26 @@
+body{
+    background: none
+}
+
+.container{
+    width: 300px;
+    height: 400px;
+    background-color: #f7f7f4;
+    opacity: 80%;
+    border-radius: 50px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    font-family: 'Tahoma';
+    font-size: larger;
+    filter: drop-shadow(16px 16px 20px #7e7d7c);
+    word-spacing: 0.5em;
+    line-height: 2em;
+}
+
+p{
+    font-weight: bold;
+}
+
+
+  
